@@ -2,7 +2,7 @@
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
-Challenge by [Frontend Mentor](https://www.frontendmentor.io). Coded by Yasmeen Mekky.
+Challenge by [Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Coded by Yasmeen Mekky.
 
 ## The challenge
 
