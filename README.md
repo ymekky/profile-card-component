@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component
 
-![Click to see component](https://profile-card-component-gamma-ten.vercel.app/)
+[Click to see component](https://profile-card-component-gamma-ten.vercel.app/)
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
